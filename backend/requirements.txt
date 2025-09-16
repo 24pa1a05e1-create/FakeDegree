@@ -1,8 +1,0 @@
-flask
-flask-cors
-sqlalchemy
-pillow
-pytesseract
-pdf2image
-opencv-python
-pyzbar
